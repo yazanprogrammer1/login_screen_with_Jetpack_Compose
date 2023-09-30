@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Login screen with Jetpack Compose</string>
+    <string name="the_totet">The Tolet</string>
+    <string name="find_house">Fine your house</string>
+    <string name="login">Login</string>
+</resources>
