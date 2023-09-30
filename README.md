@@ -4,11 +4,12 @@ Jetpack compose Practice - building a modern login screen with Jetpack Compose
 
   <table>
   <tr>
-    <td>Login Screen</td>
+    <td>Login Screen (Darck mode)</td>
+    <td>Login Screen (Light mode)</td>
   </tr>
   <tr>
     <td> <img src="https://github.com/yazanprogrammer1/login_screen_with_Jetpack_Compose/blob/master/Screenshot_1696078134.png" href="" width="220"></td>
-   
+   <td> <img src="https://github.com/yazanprogrammer1/login_screen_with_Jetpack_Compose/blob/master/Screenshot_1696078624.png" href="" width="220"></td>
   </tr>
  </table>
 </p>
